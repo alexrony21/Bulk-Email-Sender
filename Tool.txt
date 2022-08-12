@@ -1,0 +1,2 @@
+Bulk Email Sender
+This tool will send bulk email from a list of emails . This tool supports smtps, html letter. Most of them will go inbox if you smtp is good. If you wanna buy this tool contact me via Telegram : @alexrony21
